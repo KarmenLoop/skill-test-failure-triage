@@ -1,0 +1,12 @@
+{
+  "reports": [
+    {
+      "id": "r1",
+      "xml": "<testsuite><testcase classname=\"save\" name=\"roundtrip\" time=\"0.2\"><failure message=\"expected one row\">got zero</failure></testcase></testsuite>"
+    },
+    {
+      "id": "r2",
+      "xml": "<testsuite><testcase classname=\"save\" name=\"roundtrip\" time=\"0.1\"/></testsuite>"
+    }
+  ]
+}

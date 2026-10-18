@@ -1,0 +1,4 @@
+interface:
+  display_name: "KarmenLoop Test Failure Triage"
+  short_description: "Test Failure Triage with reproducible local checks"
+  default_prompt: "Use $karmen-test-failure-triage to triage these JUnit reports and identify unstable test outcomes."

@@ -1,0 +1,28 @@
+{
+  "totals": {
+    "passed": 1,
+    "failed": 1,
+    "error": 0,
+    "skipped": 0
+  },
+  "tests": [
+    {
+      "test": "save::roundtrip",
+      "observations": [
+        {
+          "report": "r1",
+          "outcome": "failed",
+          "seconds": 0.2,
+          "message": "expected one row got zero"
+        },
+        {
+          "report": "r2",
+          "outcome": "passed",
+          "seconds": 0.1,
+          "message": ""
+        }
+      ],
+      "mixed_outcomes": true
+    }
+  ]
+}
