@@ -3,7 +3,7 @@ name: karmen-test-failure-triage
 description: "Read JUnit results and distinguish repeat failures from flaky outcomes. Use when a test suite or CI run fails and the user needs actionable grouping."
 metadata:
   author: KarmenLoop
-  version: "0.2.0"
+  version: "0.2.1"
 ---
 
 # Test Failure Triage
